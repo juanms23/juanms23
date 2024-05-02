@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif)]
+[![MasterHead]([https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif](https://user-images.githubusercontent.com/87377676/196049395-3b0bbedd-691b-4669-9f27-805f8b8a31be.gif))]
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
 <h3 align="center">A WWU Computer Science Student interested in UX/Accessibility</h3>
 
