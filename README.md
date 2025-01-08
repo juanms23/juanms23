@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=juanms23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Objected-Oriented Design, Networks**
+- 🌱 I’m currently learning **Artificial Intelligence, Operating System Internals, and Web Programming**
 
 - 📫 How to reach me **jmuratallasanchez@gmail.com**
 
